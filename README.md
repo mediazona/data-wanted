@@ -9,5 +9,6 @@ Data for the research of the Russian Police wanted list
 - pob: Place of birth, exactly as set by police
 - nationality: Nationality, exactly as set by police
 - features: Additional details, exactly as set by police. Use "ОН ЖЕ" or "ОНА ЖЕ" sequences to find same persons on the list
+- status: NEW — added to the database on the last update, REMOVED — removed from the database
 - category: Tag or category set by Mediazona
 - eng_category: Category translation
